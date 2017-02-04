@@ -64,7 +64,7 @@ It currently does the following:
 
 =over
 
-=item * Add a test script F<xt/release/meta.t> (unless F<t/meta.t> already exists)
+=item * Add a test script F<xt/release/meta.t> (which will become F<t/release-meta.t>) unless F<t/meta.t> or F<t/meta.t> already exists
 
 The test script is something like:
 
